@@ -1,0 +1,103 @@
+.quadrado2{
+	position: relative;
+	margin: 10px;
+	margin-top: 5px;
+	margin-left: 10%;
+	width: 80%;
+	height: 100%;
+	top: 1px;
+	border-radius: 15px;
+	font-family: Courier New, monospace;
+	background-color: #006C71;
+}
+.quadrado3{
+	position: relative;
+	width: 100%;
+	height: 100%;
+	border-radius: 15px;
+}
+.quadrado4{
+	position: relative;
+	margin: 10px;
+	margin-left: 15%;
+	margin-top: 10px;
+	width: 70%;
+	height: 70%;
+	border-radius: 15px;
+	font-family: Courier New, monospace;
+	background-color: #CCCCCC;
+}
+.quadrado5{
+	position: relative;
+	margin: 10px;
+	margin-top: 10px;
+	margin-left: 20%;
+	width: 60%;
+	height: 100%;
+	border-radius: 15px;
+	font-family: Courier New, monospace;
+	background-color: #006C71;
+}
+.quadrado6{
+	position: relative;
+	width: 101.5%;
+	height: 15%;
+	left: -1%;
+	font-family: Courier New, monospace;
+	background-color: #006C71;
+}
+
+header{
+     position:fixed;
+     width:100%;
+     top: 0px;
+     left: 0px;
+     background-color: #006C71;
+     border-radius: 0px 0px 20px 20px;
+ }
+
+header .link0 {
+	position: absolute;
+	left: 25%;
+	top: 35%;
+	font-size: 20px;
+}
+
+header .link1 {
+	position: absolute;
+	left: 35%;
+	top: 35%;
+	font-size: 10px;
+}
+
+header img {
+	border-radius:10px;
+}
+
+header .link2 {
+	position: absolute;
+	left: 60%;
+	top: 35%;
+	font-size: 10px;
+}
+
+header .link3 {
+	position: absolute;
+	left: 79%;
+	top: 35%;
+	font-size: 10px;
+}
+a {
+	color: gray;
+}
+header a:link {
+	font-size: 20px;
+	font-family: verdana;
+	text-decoration: none;
+}
+
+header a:hover {
+	background-color: #D0D5CE;
+	border-radius: 20px;
+	padding: 5px;
+}

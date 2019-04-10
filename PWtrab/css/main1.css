@@ -1,0 +1,80 @@
+.texto{
+	position:absolute;
+	width: 70%;
+	height: 80%;
+	margin-top: 10%;
+	background: #006C71;
+	margin-left: 15%;
+	text-align: center;
+	font-family: Courier New, monospace;
+
+}	
+
+.direitos{
+	position:relative;
+	width: 142.7%;
+	height: 5%;
+	margin-top:50%;
+	margin-left: -22%;
+	bottom: 30%;
+	background: #008B8B;
+	text-align: center;
+}
+
+header{
+     position:fixed;
+     width:100%;
+     top: 0px;
+     left: 0px;
+     background-color: #006C71;
+     border-radius: 0px 0px 20px 20px;
+ }
+
+header .link0 {
+	position: absolute;
+	left: 25%;
+	top: 35%;
+	font-size: 20px;
+}
+
+header .link1 {
+	position: absolute;
+	left: 35%;
+	top: 35%;
+	font-size: 10px;
+}
+
+header img {
+	border-radius:10px;
+	margin-left: -95%;
+}
+
+header .link2 {
+	position: absolute;
+	left: 60%;
+	top: 35%;
+	font-size: 10px;
+}
+
+header .link3 {
+	position: absolute;
+	left: 79%;
+	top: 35%;
+	font-size: 10px;
+}
+a {
+	color: gray;
+}
+header a:link {
+	font-size: 20px;
+	font-family: verdana;
+	text-decoration: none;
+}
+
+header a:hover {
+	background-color: #D0D5CE;
+	border-radius: 20px;
+	padding: 5px;
+}
+
+
